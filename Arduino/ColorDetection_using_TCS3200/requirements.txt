@@ -1,0 +1,9 @@
+#Modules,
+#No header File Needed
+#Future Class Development on TCS3200,BUILT-IN Functions ,is goin on
+
+#Materials,
+#Arduino UNO/ESP8266,TCS3200 Color Sensor,Essentials( Jumpers,Bread Board)
+
+#Software
+#Arduino IDE 2.0.1
